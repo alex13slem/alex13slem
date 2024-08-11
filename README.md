@@ -48,7 +48,3 @@
 - 📧 Email: [o.s.shcherba@gmail.com](mailto:o.s.shcherba@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-shcherba-6a9a63320/)
 - 💻 [GitHub](https://github.com/alex13slem)
-
-## 📈 Статистика GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex13slem&show_icons=true&theme=radical)
