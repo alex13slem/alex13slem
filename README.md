@@ -20,6 +20,7 @@ Full-stack web developer with experience building **modern, fast, and SEO-optimi
 ### 🚀 [Portfolio Website](https://alex13slem.pages.dev/projects/impact/)
 
 **Role:** Full frontend and backend development (excluding design).
+
 **Technologies:** Astro JS, Svelte, React, TypeScript, TailwindCSS, Markdown, Sveltia CMS, Cloudflare Pages
 
 ---
@@ -27,6 +28,7 @@ Full-stack web developer with experience building **modern, fast, and SEO-optimi
 ### 🌐 [Eisvil](https://eisvil-new.netlify.app)
 
 **Role:** Developed the website with content management and external service integrations.
+
 **Technologies:** Astro JS, Svelte, Decap CMS, Netlify, Swiper, SCSS
 
 ---
@@ -34,6 +36,7 @@ Full-stack web developer with experience building **modern, fast, and SEO-optimi
 ### 🎯 [Blagodeystvie Charity Foundation](https://blagodeystvie.ru)
 
 **Role:** Rapid development of the website for the foundation’s conference.
+
 **Technologies:** Astro JS, Svelte, WordPress, Tailwind, Swiper
 
 ---
@@ -41,6 +44,7 @@ Full-stack web developer with experience building **modern, fast, and SEO-optimi
 ### 🔥 [BSO Real Estate — Current Project](https://bso.ae)
 
 **Role:** Backend feature development and integration with ERPNext; frontend updates and new features in client portal.
+
 **Technologies:** NestJS, Next.js, Astro JS, Strapi CMS, Supabase, Svelte, React
 
 ---
