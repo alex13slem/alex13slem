@@ -1,57 +1,61 @@
-## 👋 Привет, я Александр!
+## 👋 Hi, I'm Oleksandr!
 
-Full-stack веб-разработчик с опытом создания современных, быстрых и SEO-оптимизированных веб-приложений. Моя специализация — разработка полного стека (frontend и backend), интеграция с BaaS и настройка CI/CD для автоматического развертывания.  
-
----
-
-## 🛠️ **Навыки и Технологии**
-
-- **Frontend:** Next.js, Astro, React, Svelte  
-- **Backend:** Node.js, NestJS, Supabase, Serverless Functions  
-- **Базы данных:** PostgreSQL, Drizzle ORM, Prisma ORM  
-- **CMS:** Decap CMS, Strapi  
-- **Стилизация:** Tailwind CSS, SCSS  
-- **CI/CD и хостинг:** Vercel, Netlify, GitHub Actions  
+Full-stack web developer with experience building **modern, fast, and SEO-optimized web applications**. I specialize in full-stack development (frontend & backend), integrating BaaS solutions, and setting up CI/CD for automated deployment.
 
 ---
 
-## 💼 **Мои проекты**
+## 🛠️ **Skills & Technologies**
 
-### 🚀 [Сайт-Портфолио](https://alex13slem.vercel.app)  
-**Роль:** Полная разработка фронтенда и бекенда, за исключением дизайна.  
-**Технологии:** Next.js, Supabase, Drizzle ORM  
-
----
-
-### 🌐 [Eisvil](https://eisvil-new.netlify.app)  
-**Роль:** Разработка сайта с управлением контентом и интеграцией внешних сервисов.  
-**Технологии:** Astro JS, Svelte, Decap CMS, Netlify, Swiper, SCSS 
+* **Frontend:** Next.js, Astro, React, Svelte
+* **Backend:** Node.js, NestJS, Supabase, Serverless Functions
+* **Databases:** PostgreSQL, Drizzle ORM, Prisma ORM
+* **CMS:** Decap CMS, Strapi
+* **Styling:** Tailwind CSS, SCSS
+* **CI/CD & Hosting:** Vercel, Netlify, GitHub Actions
 
 ---
 
-### 🎯 [Фонд IMPACT](https://impactfoundation.ru)  
-**Роль:** Быстрая разработка сайта под конференцию фонда.  
-**Технологии:** Astro JS, Svelte, WordPress, Tailwind, GSAP, Swiper  
+## 💼 **My Projects**
+
+### 🚀 [Portfolio Website](https://alex13slem.pages.dev/projects/impact/)
+
+**Role:** Full frontend and backend development (excluding design).
+**Technologies:** Astro JS, Svelte, React, TypeScript, TailwindCSS, Markdown, Sveltia CMS, Cloudflare Pages
 
 ---
 
-### 🔥 [BSO Real Estate — Текущий проект](https://bso.ae)  
-**Задача:** Миграция PWA-приложения с Astro на NestJS и перенос данных со Strapi CMS в Supabase.  
-**Роль:** Переписывание бекенда, настройка API, авторизация и защита данных через RLS.  
-**Технологии:** NestJS, Astro JS, Strapi CMS, Supabase, Svelte, React
+### 🌐 [Eisvil](https://eisvil-new.netlify.app)
+
+**Role:** Developed the website with content management and external service integrations.
+**Technologies:** Astro JS, Svelte, Decap CMS, Netlify, Swiper, SCSS
 
 ---
 
-## ✨ Что меня отличает?
+### 🎯 [Blagodeystvie Charity Foundation](https://blagodeystvie.ru)
 
-- Полный цикл разработки: от проектирования до развертывания  
-- Опыт в SSG и SSR для SEO и производительности  
-- Интеграция с BaaS и автоматизация CI/CD  
+**Role:** Rapid development of the website for the foundation’s conference.
+**Technologies:** Astro JS, Svelte, WordPress, Tailwind, Swiper
 
 ---
 
-## 🔗 Свяжитесь со мной
+### 🔥 [BSO Real Estate — Current Project](https://bso.ae)
 
-- 📧 [o.s.shcherba@gmail.com](mailto:o.s.shcherba@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-shcherba-6a9a63320/)  
-- 💻 [GitHub](https://github.com/alex13slem)  
+**Role:** Backend feature development and integration with ERPNext; frontend updates and new features in client portal.
+**Technologies:** NestJS, Next.js, Astro JS, Strapi CMS, Supabase, Svelte, React
+
+---
+
+## ✨ **What Sets Me Apart**
+
+* Full development cycle: from planning to deployment
+* Experience with SSG and SSR for SEO and performance
+* BaaS integrations and CI/CD automation
+
+---
+
+## 🔗 **Contact Me**
+
+* 📧 [o.s.shcherba@gmail.com](mailto:o.s.shcherba@gmail.com)
+* 💼 [LinkedIn](https://www.linkedin.com/in/oleksandr-sherba-6a9a63320)
+* 💻 [GitHub](https://github.com/alex13slem)
+* 💬 [Telegram](https://t.me/alex13slem)
